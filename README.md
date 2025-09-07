@@ -15,10 +15,8 @@ Welcome to my GitHub profile! I’m currently a student and a passionate hobby-l
 
 ## 🚀 Featured Projects
 
-- [**GameOverlay**](https://github.com/AdrianDevProjects/GameOverlay): My toolkit for in-game overlays and HUDs.
-- [**Notentool**](https://github.com/AdrianDevProjects/Notentool): A handy note-taking tool for devs and gamers.
-- [**ClientKit**](https://github.com/AdrianDevProjects/ClientKit): Utilities for client-server communication.
-- [**steam.py**](https://github.com/AdrianDevProjects/steam.py): Python tools for Steam integration.
+<!-- - [**GameOverlay**](https://github.com/AdrianDevProjects/GameOverlay): My toolkit for in-game overlays and HUDs. -->
+- [**ClientKit**](https://github.com/AdrianDevProjects/ClientKit): Utilities for client-server API communication (deprecated API, new version soon).
 - [**Legal** (PlaydionGames)](https://github.com/PlaydionGames/Legal): Foundation for Playdion Games’ future open projects!
 
 Explore more on my [GitHub Repositories](https://github.com/AdrianDevProjects?tab=repositories).
